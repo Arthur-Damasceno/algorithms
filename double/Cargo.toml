@@ -1,0 +1,5 @@
+[package]
+name = "double"
+description = "It reads a number and prints its double."
+version = "0.1.0"
+authors = ["Arthur Damasceno <damascenoarthur653@gmail.com>"]
