@@ -1,6 +1,6 @@
 [package]
-name = "double"
-description = "It reads a number and prints its double."
+name = "average"
+description = "It reads two grades and computes its average."
 version = "0.1.0"
 edition = "2021"
 authors = ["Arthur Damasceno <damascenoarthur653@gmail.com>"]
