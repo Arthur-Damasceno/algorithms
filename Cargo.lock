@@ -13,3 +13,7 @@ version = "0.1.0"
 [[package]]
 name = "quadratic"
 version = "0.1.0"
+
+[[package]]
+name = "triangle"
+version = "0.1.0"

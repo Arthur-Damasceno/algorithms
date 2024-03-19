@@ -1,0 +1,6 @@
+[package]
+name = "triangle"
+description = "It verifies if three numbers could be the sides of a triangle and sorts the triangle."
+version = "0.1.0"
+edition = "2021"
+authors = ["Arthur Damasceno <damascenoarthur653@gmail.com>"]
