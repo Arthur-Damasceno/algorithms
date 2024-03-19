@@ -1,0 +1,6 @@
+[package]
+name = "ifce_average"
+description = "It reads two grades and verifies if you've passed, else it computes the grade you need to pass the final exam at IFCE."
+version = "0.1.0"
+edition = "2021"
+authors = ["Arthur Damasceno <damascenoarthur653@gmail.com>"]
