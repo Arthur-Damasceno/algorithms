@@ -1,0 +1,6 @@
+[package]
+name = "factorial"
+description = "It computes the factorial of a number."
+version = "0.1.0"
+edition = "2021"
+authors = ["Arthur Damasceno <damascenoarthur653@gmail.com>"]
