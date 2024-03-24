@@ -19,5 +19,9 @@ name = "quadratic"
 version = "0.1.0"
 
 [[package]]
+name = "set_amplitude"
+version = "0.1.0"
+
+[[package]]
 name = "triangle"
 version = "0.1.0"

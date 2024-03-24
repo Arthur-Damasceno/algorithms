@@ -1,0 +1,6 @@
+[package]
+name = "set_amplitude"
+description = "It reads a set of numbers and gives the difference between the largest and smallest."
+version = "0.1.0"
+edition = "2021"
+authors = ["Arthur Damasceno <damascenoarthur653@gmail.com>"]
