@@ -1,0 +1,6 @@
+[package]
+name = "pi"
+description = "It computes the approximate value of pi"
+version = "0.1.0"
+edition = "2021"
+authors = ["Arthur Damasceno <damascenoarthur653@gmail.com>"]

@@ -19,6 +19,10 @@ name = "ifce_average"
 version = "0.1.0"
 
 [[package]]
+name = "pi"
+version = "0.1.0"
+
+[[package]]
 name = "quadratic"
 version = "0.1.0"
 
