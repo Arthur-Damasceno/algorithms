@@ -19,6 +19,10 @@ name = "ifce_average"
 version = "0.1.0"
 
 [[package]]
+name = "linked_list"
+version = "0.1.0"
+
+[[package]]
 name = "natural_logarithm"
 version = "0.1.0"
 

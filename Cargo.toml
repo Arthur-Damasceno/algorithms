@@ -1,3 +1,3 @@
 [workspace]
-members = ["average","double", "factorial", "ifce_average", "natural_logarithm", "pi", "quadratic", "set_amplitude", "triangle"]
+members = ["average","double", "factorial", "ifce_average", "linked_list", "natural_logarithm", "pi", "quadratic", "set_amplitude", "triangle"]
 resolver = "2"

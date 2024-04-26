@@ -1,0 +1,6 @@
+[package]
+name = "linked_list"
+description = "An implementation of linked list data structure."
+version = "0.1.0"
+edition = "2021"
+authors = ["Arthur Damasceno <damascenoarthur653@gmail.com>"]

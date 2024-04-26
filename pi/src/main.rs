@@ -1,4 +1,4 @@
-use std::io::{Write, stdin, stdout};
+use std::io::{stdin, stdout, Write};
 
 fn read_operations() -> u32 {
     let mut x = String::new();
@@ -6,7 +6,9 @@ fn read_operations() -> u32 {
     print!("How many operations?: ");
     stdout().flush().unwrap();
 
-    stdin().read_line(&mut x).expect("Error while reading number");
+    stdin()
+        .read_line(&mut x)
+        .expect("Error while reading number");
 
     x.trim().parse().expect("Invalid number")
 }
